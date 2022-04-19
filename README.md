@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### My name is Diana and I am Big Data and Java Developer with 2 years experience.
+
+**Here are some things to get to know:**
+
+- 🌱 I’m currently learning Big Data, Python, Java (especially for web projects).
+- 💬 Ask me about Java, Spring Boot, projects, technologies.
+
 <!--
 **Dzeru/Dzeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
