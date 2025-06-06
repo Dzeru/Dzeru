@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Diana and I am Big Data and Java Developer with 3 years experience.
+### My name is Diana and I am Big Data and Java Developer with 5 years experience.
 
 **Here are some things to get to know:**
 
